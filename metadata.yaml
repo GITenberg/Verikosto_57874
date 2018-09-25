@@ -1,5 +1,8 @@
 _repo: Verikosto_57874
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -16,6 +19,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57874#Verikosto
 gutenberg_issued: '2018-09-09'
 gutenberg_type: Text
 identifiers:
